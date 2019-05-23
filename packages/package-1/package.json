@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "access": "public"
+    "access": "private"
   },
   "repository": {
     "type": "git",
@@ -25,5 +25,6 @@
   },
   "bugs": {
     "url": "https://github.com/kamthamc/learning-lerna/issues"
-  }
+  },
+  "gitHead": "fe6501dacd2776889919b0de426a56804ac41c43"
 }
