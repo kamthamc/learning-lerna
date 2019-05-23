@@ -1,6 +1,6 @@
 {
   "name": "@kamthamc/package-1",
-  "version": "0.1.0-alpha.0",
+  "version": "0.1.0",
   "description": "test package",
   "author": "Chaitanya Kumar Kamatham <kamthamc@users.noreply.github.com>",
   "homepage": "https://github.com/kamthamc/learning-lerna#readme",
